@@ -30,8 +30,13 @@ Queries were also processed and classified. The similarity between the queried c
 
 ```
 ## Code Outputs
+### Confusion Matrix:
 ![Output 1](img/r1.png)
+---
+### Title Classification In Categories:
 ![Output 2](img/r2.png)
+---
+### Original Dataset Match - Support VectorMachine (SVM) models trained have successfully identified the categories:
 ![Output 3](img/r3.png)
 
 
